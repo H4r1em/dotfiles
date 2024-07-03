@@ -1,0 +1,15 @@
+[window]
+decorations = "None"
+opacity = 0.85
+dimensions = { columns = 79, lines = 20 }
+position = { x = 240, y = 120 }
+
+[cursor]
+style = {shape = "Beam", blinking = "On"}
+
+[font]
+size = 26
+normal = {family = "JetBrainsMono NF", style="Medium"}
+
+[colors.primary]
+background = "#001B26"
